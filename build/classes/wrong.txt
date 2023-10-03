@@ -1,0 +1,15 @@
+Abate,Become less intense or widespread.,5,10
+Abet,Encourage or assist,4,1
+Berate,Scold or criticise.,3,4
+Bovine,Of or relating to cattle.,7,10
+Cache,A collection of similar items stored in a secret place.,8,9
+Harsh discordant mixture of sounds.,9,10
+Dispassionate,Not influenced by strong emotion.,5,5
+Effluvia,An unpleasant or harmful odour.,2,6
+Emulate,Match or surpass.,2,3
+Fictive,Created by imagination.,4,5
+Lexicon,Vocabulary of a person.,1,4
+Nomenclature,The choosing of names for things.,5,8
+Novel,Fictitious prose narrative.,1,1
+Ostracize,Exclude from a society or group.,2,4
+Polyglot,Knowing or using several languages.,1,8

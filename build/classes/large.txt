@@ -1,0 +1,80 @@
+Abate,Become less intense or widespread.,5,10
+Abet,Encourage or assist.,2,5
+Berate,Scold or criticise.,3,4
+Bovine,Of or relating to cattle.,7,10
+Cache,A collection of similar items stored in a secret place.,8,9
+Cacophony,Harsh discordant mixture of sounds.,9,10
+Dispassionate,Not influenced by strong emotion.,5,5
+Effluvia,An unpleasant or harmful odour.,2,6
+Emulate,Match or surpass.,2,3
+Fictive,Created by imagination.,4,5
+Lexicon,Vocabulary of a person.,1,4
+Nomenclature,The choosing of names for things.,5,8
+Novel,Fictitious prose narrative.,1,1
+Ostracize,Exclude from a society or group.,2,4
+Polyglot,Knowing or using several languages.,1,8
+Braggart,A person who boasts about achievements.,3,17
+Burnish,Polish by rubbing.,3,5
+Catalyst,Substance that increases the rate of a chemical reaction.,2,5
+Censorious,Severely critical of others.,5,13
+Dearth,Scarcity or lack of something.,2,13
+Demagogue,A political leader who seeks support by appealing to popular desires rather than reason.,5,15
+Diluvial,Of or relating to a flood.,4,15
+Emulate,Match or surpass.,9,10
+Epochal,Extremely significant.,7,8
+Expound,Explain or present.,4,5
+Facile,Appearing comprehensive by ignoring the complexities of the situation.,4,12
+Flippant,Not showing a serious attitude.,9,10
+Gauche,Lacking grace.,3,6
+Gregarious,Outgoing or social.,5,6
+Grotto,Small cave or cave-like structure.,5,23
+Hedonist,A person who believes the pursuit of pleasure is the most important aspect of life.,14,15
+Heretical,Practicing religious heresy.,5,12
+Hubris,Excessive pride.1,4
+Hypocrite,A person who says one thing and does another.4,5
+Ignoble,Not honourable in character.,2,3
+Imbibe,Drink alcohol,0,0
+Imperious,Assuming power without justification.,2,6
+Importunate,Persistent.,5,6
+Jettison,Throw or drop for an aeroplane or ship.,4,5
+Jocular,Humorous or playful.,4,4
+Junta,Military group that rules after taking by force.,3,4
+Kismet,Destiny.,11,12
+Licentious,Immoral.,7,10
+Limber,Flexible.,3,5
+Loquacious,Talkative.,5,6
+Malapropism,Mistaken use of a word in place of a similar-sounding word.6,12
+Malfeasance,Wrongdoing.
+Mawkish,Sentimental in a sickening way.,3,5
+Misnomer,Wrong or inaccurate name in the designation.,4,6
+Modicum,Small or minimal portion.,1,4
+Mote,Tiny piece of a substance.,3,4
+Necromancy,Practice of communicating with the dead.1,1
+Nihilism,Rejection of religion,2,10
+Olfactory,Of or relating to the sense of smell.,1,22
+Opprobrious,Compressing scorn.,4,5
+Sinecure,Position requiring little or no work.,11,24
+Stint,Supply an inadequate amount of something.,4,5
+Sybarite,Self-indulgent person.,2,4
+Tawdry,Showy but cheap.,1,2
+Tenacious,Keep a firm hold on something.,12,214
+Terse,Sparing in the use of words.,6,8
+Tout,Attempt to sell something by aggressively pestering.,1,3
+Trounce,Defeat heavily in a contest.,11,13
+Tutelage,Authority over someone or something.,5,16
+Unconscionable,Not right or reasonable.,4,28
+Untoward,Unexpected.,7,8
+Usury,Lending money at unlawful rates.,1,8
+Vehemently,Showing strong feelings.,4,6
+Veritable,Using as an intensifier.6,8
+Vilify,Write or speak in an abusively disparaging way.,3,8
+Vociferous,Vehement.,3,6
+Wan,Pale with the appearance of illness.,2,5
+Wield,Hold and use typically a weapon or tool.,6,9
+Winsome,Attractive appearance or character.,4,7
+Wry,Using dry or mocking humour.,1,7
+Xenophobe,Fear or dislike for people of different countries.,5,7
+Yeoman,A man holding and cultivating a field.,3,4
+Yen,Japanese monetary unit.2,3
+Yowl,A loud wailing cry.,1,3
+Zenith,Peak.,0,10
